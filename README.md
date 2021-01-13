@@ -42,11 +42,6 @@ Dari kalimat tersebut pada setiap karakter geserlah sebanyak 5 karakter, contoh 
 
 4. Soal Keempat 20 Point
 Buatlah algoritma untuk tebak angka dengan aturan sebagai berikut:
-
 Telah disiapkan sebuah angka random antara 1 hingga 100, contoh 47
 program akan mencari angka tersebut dan menyebutkan berapa langkah yang dibutuhkan untuk mencari angka tersebut
-Aturan
-Pengerjaan bersifat individu
-Dilarang menyontek atau kerjsama
-Silahkan kumpulkan link repository
-Link pengumpulan link
+
