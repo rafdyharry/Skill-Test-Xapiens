@@ -40,7 +40,7 @@ karakter Z sebanyak 2 kali
 Dari kalimat tersebut pada setiap karakter geserlah sebanyak 5 karakter, contoh abc menjadi fgh
 
 
-Soal Keempat 20 Point
+4. Soal Keempat 20 Point
 Buatlah algoritma untuk tebak angka dengan aturan sebagai berikut:
 
 Telah disiapkan sebuah angka random antara 1 hingga 100, contoh 47
